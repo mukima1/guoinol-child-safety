@@ -72,7 +72,7 @@ For concerns specifically related to child safety, please contact:
 
 **Email:** childsafety@guoinol.com  
 **App Name:** Guoinol  
-**Developer:** Guoinol  
+**Developer:** VexovinLLC  
 
 ---
 
